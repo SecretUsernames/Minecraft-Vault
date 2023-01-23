@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "E",
+    "R"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },"S": {
+      "item": "experimental:sapphire"
+    },
+    "R": {
+      "item": "experimental:ruby"
+    }
+  },
+  "result": {
+    "item": "experimental:rainbow_blade"
+  }
+}

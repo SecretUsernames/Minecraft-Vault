@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "S"
+  ],
+  "key": {
+    "R": {
+      "item": "experimental:rainbow_blade"
+    },"S": {
+      "item": "experimental:sword_handle"
+    }
+  },
+  "result": {
+    "item": "experimental:rainbow_sword"
+  }
+}

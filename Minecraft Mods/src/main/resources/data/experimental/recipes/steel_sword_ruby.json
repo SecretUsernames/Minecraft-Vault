@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "G",
+    "S"
+  ],
+  "key": {
+    "I": {
+      "item": "experimental:steel_ingot"
+    },"S": {
+      "item": "experimental:sword_handle"
+    },
+    "G": {
+      "item": "experimental:ruby"
+    }
+  },
+  "result": {
+    "item": "experimental:steel_sword_ruby"
+  }
+}
